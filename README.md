@@ -1,1 +1,1 @@
-# Electricity-price-forecasting
+# Electricity-price-forecasting using LSTM
